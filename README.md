@@ -3,6 +3,7 @@ This Regression Case Study Report uses Python statistical modelling and applies 
 
 ## Prerequisites
 - Clone this remote repository https://github.com/kimt12531/Regression-Study-Concrete.git
+- Please create a branch from `develop` in your local repository
 
 The report may be viewed through opening `Concrete_Regression_Study.html` in your web browser. Markdown and Python code and output should be visible. You may also view it through `Visual Studio Code` or `Jupyter Notebook`.
 
